@@ -6,6 +6,7 @@ Practical examples for the [Google Agent Development Kit (ADK)](https://github.c
 
 - **`agent_content_config/`**: Demonstrates fine-tuning LLM behavior (temperature, safety, sampling) for factual vs. creative tasks.
 - **`agent_thinking_config/`**: Demonstrates multi-step reasoning and planning using `ThinkingConfig`.
+- **`agent_code_execution/`**: Demonstrates using the built-in `CodeExecutor` for accurate calculations and complex mathematical analysis.
 
 ## Getting Started
 
